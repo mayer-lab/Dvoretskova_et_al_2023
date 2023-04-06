@@ -7,6 +7,8 @@ Spatial enhancer activation determines inhibitory neuron identity
 
 doi: https://doi.org/10.1101/2023.01.30.525356
 
+For feedback or suggestions, please contact <mailto:christian.mayer@bi.mpg.de>.
+
 ## Authors
 
 Elena Dvoretskova
