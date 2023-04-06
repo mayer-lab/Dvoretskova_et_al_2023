@@ -11,16 +11,7 @@ For feedback or suggestions, please contact <mailto:christian.mayer@bi.mpg.de>.
 
 ## Authors
 
-Elena Dvoretskova
-May C. Ho
-Volker Kittke
-Ilaria Vitali
-Daniel D. Lam
-Irene Delgado
-Chao Feng
-Miguel Torres
-Juliane Winkelmann
-Christian Mayer
+Elena Dvoretskova, May C. Ho, Volker Kittke, Ilaria Vitali, Daniel D. Lam, Irene Delgado, Chao Feng, Miguel Torres, Juliane Winkelmann, Christian Mayer
 
 Correspondence: <mailto:christian.mayer@bi.mpg.de>
 
